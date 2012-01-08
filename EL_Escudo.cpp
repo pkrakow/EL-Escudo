@@ -4,6 +4,10 @@
 
   This library is released under the 'Beer Me' license, so use it however you
   with. Just buy me a beer if we ever meet!
+  
+  Edits by Paul Krakow to make this library work with the Arduino 1.0 IDE
+  And to get the "on" API call to work
+ 
 */
 
 /******************************************************************************
